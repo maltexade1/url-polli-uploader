@@ -17,7 +17,7 @@
 ```
 • Upload HTTP/HTTPS as File/Video to Telegram.
 
-• Upload zee5, sony.live, voot and much more 😋
+• Upload, sony.live, voot and much more 😋
 
 • Broadcast message, check total users
 
@@ -52,7 +52,7 @@ python3 main.py
 
 
 ## Support Sites 🐙
-   **[YouTube-dl Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html)**
+   **[ Supported Links]()**
 
 ## TG Bots Updates 🦄
    **[Bot Universe](https://t.me/TMWAD)**
